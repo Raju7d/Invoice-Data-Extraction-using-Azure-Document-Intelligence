@@ -1,0 +1,1 @@
+# Invoice-Data-Extraction-using-Azure-Document-Intelligence
